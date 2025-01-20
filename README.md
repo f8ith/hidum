@@ -1,0 +1,2 @@
+# hidum
+hid usermode emulation
